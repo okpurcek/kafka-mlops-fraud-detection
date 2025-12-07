@@ -1,0 +1,6 @@
+kafka-python
+streamlit
+pandas
+numpy
+watchdog
+jupyter
